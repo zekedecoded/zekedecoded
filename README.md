@@ -2,7 +2,7 @@
 - 👀 I’m interested in successfully finishing different projects
 - 🌱 I’m currently learning different proramming language like c++, python, java and etc.
 - - 📫 How to reach me
-  - Instagram: @zekeclrnc
+  - Instagram: @003z.ke
   - Email: ezekielclarence06@gmail.com
 - 😄 Pronouns: he/him
 
