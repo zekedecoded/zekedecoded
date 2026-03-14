@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @zekedecoded
-- 👀 I’m interested in successfully finishing different projects
-- 🌱 I’m currently learning different proramming language like c++, python, java and etc.
-- - 📫 How to reach me
-  - Instagram: @003z.ke
-  - Email: ezekielclarence06@gmail.com
-- 😄 Pronouns: he/him
+I am a third-year college student at NEUST focusing on software development. I am currently dedicated to improving my web development skills and exploring new technologies.
 
-<!---
-zekedecoded/zekedecoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Technical Stack
+* **Languages:** Java, C++, Python, PHP, HTML, CSS, JavaScript (Node.js)
+* **Databases:** MySQL
+* **Tools:** Bootstrap, Git
+
+### Currently Learning
+* **Mobile Development:** Flutter and Dart
+* **Backend:** Advanced database architecture and system design
+
+---
+
+"Still learning, still building."
