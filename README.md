@@ -36,7 +36,7 @@ I am a third-year college student at **NEUST**, focusing on software development
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zekedecodedE&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zekedecoded&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekedecoded&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180" />
 </div>
 
@@ -45,9 +45,8 @@ I am a third-year college student at **NEUST**, focusing on software development
 ### 📫 Get in Touch
 
 <p align="left">
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" /></a>
+<a href="https://facebook.com/zekedecoded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/003z.ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 * **Location:** Cabiao, Nueva Ecija, Philippines 🇵🇭
