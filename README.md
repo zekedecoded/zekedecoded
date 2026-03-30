@@ -2,16 +2,17 @@
 ### 🚀 Still learning, still building.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Third-Year+Student+@+NEUST;Software+Development+Enthusiast;Exploring+Flutter+%26+Dart;Mastering+Backend+%26+Databases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Third-Year+Student+@+NEUST;Focusing+on+Software+Development;Exploring+Flutter+%26+Dart;Mastering+Backend+%26+Databases" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I am a third-year college student at **NEUST (San Isidro)**, dedicated to sharpening my web development skills and diving deep into system architecture. Currently, I am expanding my horizons from web-based CRUD systems into the world of mobile development.
+I am a third-year college student at **NEUST**, focusing on software development. I am currently dedicated to improving my web development skills and exploring new technologies.
 
-- 📚 **Learning:** Flutter, Dart, and Advanced Database Design
-- ⚡ **Fun Fact:** I'm a fan of *Rick and Morty* and enjoy a good game of *The Forest* or *Minecraft* when I'm not debugging.
+- 📚 **Currently Learning:** Flutter, Dart, and Advanced Database Architecture
+- ⚡ **Interests:** Minecraft, The Forest, and Roblox
+- 📺 **Watching:** Rick and Morty
 
 ---
 
@@ -24,7 +25,7 @@ I am a third-year college student at **NEUST (San Isidro)**, dedicated to sharpe
   </a>
 </p>
 
-**Currently Exploring**
+**Current Exploration & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,bootstrap,git&theme=dark" />
@@ -35,15 +36,21 @@ I am a third-year college student at **NEUST (San Isidro)**, dedicated to sharpe
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zekedecoded&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zeke's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekedeocoded&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zekedecodedE&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekedecoded&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180" />
 </div>
 
 ---
 
 ### 📫 Get in Touch
-- **Spotify:** [Listening to Chase Atlantic & Daniel Caesar](https://open.spotify.com)
-- **Location:** Cabiao, Nueva Ecija, Philippines 🇵🇭
+
+<p align="left">
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" /></a>
+</p>
+
+* **Location:** Cabiao, Nueva Ecija, Philippines 🇵🇭
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
