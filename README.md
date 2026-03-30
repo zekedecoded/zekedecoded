@@ -11,7 +11,6 @@
 I am a third-year college student at **NEUST**, focusing on software development. I am currently dedicated to improving my web development skills and exploring new technologies.
 
 - 📚 **Currently Learning:** Flutter, Dart, and Advanced Database Architecture
-
 ---
 
 ### 🛠 Technical Stack
@@ -35,11 +34,11 @@ I am a third-year college student at **NEUST**, focusing on software development
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zekedecoded&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zeke's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zekedecoded&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zeke's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekedecoded&layout=compact&theme=radical&hide_border=true" alt="Zeke's Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zekedecoded&layout=compact&theme=radical&hide_border=true" alt="Zeke's Top Langs" />
 </p>
 
 ---
